@@ -1,4 +1,4 @@
-# Histogram Of Images
+# Histogram of Images
 
 ## NAME: NITHISH R
 
